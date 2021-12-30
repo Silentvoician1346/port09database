@@ -8,7 +8,7 @@
       "description": "Expansive, scenic botanical garden showcasing a wide range of tropical flowers & plants.",
       "rating": 4.8,
       "category": ["Working Hours", "Wheelchair", "Public Area"],
-      "image": "/images/kr",
+      // "image": "/images/kr",
       "lat": -6.597627542100562,
       "long": 106.79946086494678
     },
@@ -21,7 +21,7 @@
       "description": "The Bogor Palace is one of six Presidential Palaces of Indonesia, it is located in the city of Bogor, West Java. The palace is noted for its distinctive architectural and historical features, as well as the adjoining botanical gardens.",
       "rating": 4.2,
       "category": ["24 Hours"],
-      "image": "/images/ib",
+      // "image": "/images/ib",
       "lat": -6.5978020974377385,
       "long": 106.79741295311489
     },
@@ -34,7 +34,7 @@
       "description": "Built in 1982, this 25-m. monument is constructed to resemble an ancient West Java weapon.",
       "rating": 2.8,
       "category": ["24 Hours", "Public Area"],
-      "image": "/images/tk",
+      // "image": "/images/tk",
       "lat": -6.601263149037501,
       "long": 106.80543844595739
     },
@@ -47,7 +47,7 @@
       "description": "Massive, diverse collection of fossilized & preserved animals, including a blue whale skeleton.",
       "rating": 3.3,
       "category": ["Working Hours", "Wheelchair"],
-      "image": "/images/mz",
+      // "image": "/images/mz",
       "lat": -6.60319774648344,
       "long": 106.79723710497015
     },
@@ -60,7 +60,7 @@
       "description": "The Suryakencana area has been a business center since the colonial era built around 1808.",
       "rating": 4.7,
       "category": ["24 Hours", "Public Area"],
-      "image": "/images/sk",
+      // "image": "/images/sk",
       "lat": -6.6032184317190135,
       "long": 106.79908647568601
     }
