@@ -47,7 +47,7 @@
       "description": "Massive, diverse collection of fossilized & preserved animals, including a blue whale skeleton.",
       "rating": 3.3,
       "category": ["Working Hours", "Wheelchair"],
-      "image": "  mz/abvd.jpg",
+      "image": "`  mz/abvd.jpg`",
       "lat": -6.60319774648344,
       "long": 106.79723710497015
     },
